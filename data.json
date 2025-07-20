@@ -1,0 +1,31 @@
+{
+  "runs": 0,
+  "looses": 0,
+  "flips": 0,
+  "games": [
+    {
+      "name": "FIFA Proclubs",
+      "icon": "Trophy",
+      "wins": 0,
+      "target": 3,
+      "color": "bg-green-500",
+      "description": "B3B Münze"
+    },
+    {
+      "name": "Valorant",
+      "icon": "Sword",
+      "wins": 0,
+      "target": 12,
+      "color": "bg-red-500",
+      "description": "B3B Münze oder 12 Siege"
+    },
+    {
+      "name": "Minecraft",
+      "icon": "Pickaxe",
+      "wins": 0,
+      "target": 1,
+      "color": "bg-yellow-500",
+      "description": "Enderdrache unter 3h ohne Tod"
+    }
+  ]
+}
