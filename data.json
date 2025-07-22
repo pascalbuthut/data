@@ -1,7 +1,7 @@
 {
-  "runs": 3,
+  "runs": 4,
   "looses": 2,
-  "flips": 1,
+  "flips": 2,
   "games": [
     {
       "name": "FIFA Proclubs",
@@ -14,7 +14,7 @@
     {
       "name": "Valorant",
       "icon": "Sword",
-      "wins": 1,
+      "wins": 2,
       "target": 12,
       "color": "bg-red-500",
       "description": "B3B Münze oder 12 Siege"
