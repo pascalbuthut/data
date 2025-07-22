@@ -1,5 +1,5 @@
 {
-  "runs": 9,
+  "runs": 10,
   "looses": 6,
   "flips": 6,
   "games": [
@@ -14,7 +14,7 @@
     {
       "name": "Valorant",
       "icon": "Sword",
-      "wins":6 ,
+      "wins":7 ,
       "target": 12,
       "color": "bg-red-500",
       "description": "B3B Münze oder 12 Siege"
