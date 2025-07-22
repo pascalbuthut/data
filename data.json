@@ -1,12 +1,12 @@
 {
-  "runs": 5,
+  "runs": 6,
   "looses": 1,
-  "flips": 4,
+  "flips": 5,
   "games": [
     {
       "name": "FIFA Proclubs",
       "icon": "Trophy",
-      "wins": 2,
+      "wins": 0,
       "target": 3,
       "color": "bg-green-500",
       "description": "B3B Münze"
