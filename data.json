@@ -6,7 +6,7 @@
     {
       "name": "FIFA Proclubs",
       "icon": "Trophy",
-      "wins": 0,
+      "wins": 3,
       "target": 3,
       "color": "bg-green-500",
       "description": "B3B Münze"
@@ -22,7 +22,7 @@
     {
       "name": "Minecraft",
       "icon": "Pickaxe",
-      "wins": 0,
+      "wins": 1,
       "target": 1,
       "color": "bg-yellow-500",
       "description": "Alle Bosse ohne Tod"
